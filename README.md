@@ -165,7 +165,6 @@ Some features that can be enhanced later:
 - Login and Authentication
 - File Storage
 - JUnit Test Cases
-- Logging
 - Docker Support
 
 ---
